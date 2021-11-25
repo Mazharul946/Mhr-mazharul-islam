@@ -1,0 +1,155 @@
+
+
+*{margin:0px;padding:0px;}
+.manu li {
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    margin-right: 49px;
+}
+
+header {
+    background: #9e9e9e59;
+    overflow: hidden;
+}
+
+li a {
+    color: #ffffff;
+    background: #4194ad;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 8px;
+
+    transition: 0.4s ease;
+}
+
+li a:hover {background: black;}
+
+ul {float: right;margin-right: 51px;margin-top: 29px;}
+
+.logo{
+    width: 179px;
+    font-size: 46px;
+    font-family: math;
+    margin-left: 40px;
+    color: #4194ad;
+    font-family: cursive;
+    margin-bottom: 22px;}
+
+#scrollphoto{background:linear-gradient( 
+    335deg
+     , #ffffff00, #007cab91),url(../photos/bg.jpg);
+    background-position: 100%;
+     background-repeat: no-repeat;
+     background-size: cover;}
+
+.container2{width:500px;padding:100px 0px 20px 40px;color:whitesmoke}
+
+.containerw h1{
+
+    font-size: 60px;
+}
+.containerw p {
+
+    font-size: 25px;
+    
+    text-align: justify;
+    
+    font-family: cursive;
+    }
+.button1 {padding-bottom:20px;}
+
+.button1 button {background: #0092bd;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 46px;
+    color: white;
+    border: none;
+    transition:0.4s ease;
+    
+
+}
+
+.button1 button:hover{
+    background: black;border-radius: 20px;
+}
+
+.sbox {
+    width: 250px;
+    background: #2b617c;
+    color: white;
+    text-align: center;
+    float: left;
+    margin: 50px;
+    padding: 41px;
+    transition: 0.4s ease;
+}
+.sbox:hover{background:black;}
+.fab, .far {
+    font-weight: 400;
+    font-size: 63px;
+    line-height: 102px;
+}
+    
+    .title h1 {
+        font-size: 20px;
+        line-height: 59px;
+    }
+
+
+#sarvicebox   {
+
+    color: white;
+    text-align: center;
+}
+
+.slink{
+    padding: 10px;
+}
+.slink a {
+    text-decoration: none;color:whitesmoke
+}
+
+.boxwrapper{
+
+    margin-left: 90px;
+    margin-top: 70px
+}
+
+
+
+
+.photomhr img{    background-size: cover;
+    width: 600px;
+    margin-left: 105px;
+    margin-top: 150px;
+    float: left;
+
+}
+
+.mhrcontaint {background: #1b7da02b;
+    width: 742px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 232px;
+    font-size: 32px;
+    padding: 52px;
+    border-radius: 20px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+p{text-align: justify;}
+
+
+.sociallink{display: inline-block;font-size: 66px; color:green;
+
+
+}
+.socialw a {color:#1b7da0;transition: 0.4s ease;}
+
+.socialw a:hover{color:black;}
